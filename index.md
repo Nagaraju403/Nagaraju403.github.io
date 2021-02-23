@@ -9,7 +9,7 @@ Having 5+ years experience in APssdc
 ```
 ## Official Site 
 
-[Link](http://engineering.apssdc.in/) and ![Image](src)
+[Link](http://engineering.apssdc.in/) and ![Image](https://github.com/Nagaraju403/Nagaraju403.github.io/blob/main/Capture.PNG)
 
 ## Contact:8463961431 
 
